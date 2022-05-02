@@ -1,7 +1,7 @@
-data = input("Are you hungry ")
+d = input("Are you hungry ?")
 
-if data == "yes":
-    print("Eat Something")
-    print("Eat samosa")
+if d == "yes":
+    print("Have Food")
+
 else:
-    print("Do your Homework")
+    print("Do your work then.")
